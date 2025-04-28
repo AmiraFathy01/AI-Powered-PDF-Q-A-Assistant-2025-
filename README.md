@@ -51,5 +51,5 @@ It handles more than 30 concurrent files but it will take some time.
 | Input Options  Analysis Output |
 |------------------------------|
 | ![Input Interface](test.png)  |
-| ![Input Interface](multi-pdf.png)  |
+| ![Input Interface](Multi-Pdf.png)  |
 
